@@ -5,6 +5,13 @@
 # include pdfs as images. Maybe there is a good way to get
 # around this.
 
+#############
+# Data files
+#############
+*.csv
+*.zip
+*.xls
+
 #########################
 # Exclude Compiled Files
 #########################
