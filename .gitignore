@@ -330,3 +330,5 @@ ENV/
 # mypy
 .mypy_cache/
 *.sqlite
+
+*.gz
